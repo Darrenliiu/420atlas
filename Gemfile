@@ -60,3 +60,5 @@ gem 'simple_form'
 gem 'devise'
 # Gravatar
 gem 'gravatarify', '~> 3.0.0'
+# Geocoder
+gem 'geocoder'
